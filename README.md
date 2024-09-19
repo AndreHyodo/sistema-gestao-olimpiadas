@@ -13,3 +13,16 @@ Trabalho para disciplina de Projeto de Software - PUC Minas
 ## Diagrama de casos de uso
 <img width="500px" height="500px" src="https://github.com/AndreHyodo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-caso-de-uso.png"/>
 
+## Diagrama de classes
+<img width="500px" height="500px" src="https://github.com/AndreHyodo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-classes.png"/>
+
+## Diagrama de classes e pacotes
+<img width="500px" height="500px" src="https://github.com/AndreHyodo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-pacotes.png"/>
+
+## Diagrama de componentes
+<img width="500px" height="500px" src="https://github.com/AndreHyodo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-componentes.png"/>
+
+## Diagrama de implantação
+<img width="500px" height="500px" src="https://github.com/AndreHyodo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-implantacao.png"/>
+
+
